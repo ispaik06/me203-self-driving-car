@@ -1,0 +1,3 @@
+# ignore all PNG and TFLite files anywhere in this repo
+**/*.png
+**/*.tflite
